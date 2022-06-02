@@ -1,0 +1,11 @@
+*.class
+*.log
+
+/terraform
+# idea
+/.idea
+/target
+*.iml
+
+### Mac ###
+.DS_Store
